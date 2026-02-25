@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shin</h1>
 <h3 align="center">A 4th year electrical eng. student. I code and dabble in robotics as a hobby. </h3>
 
-- 🔭 I’m currently working on **a quadruped robot for my final year project**
+- 🔭 I’m currently working on **a quadruped robot leg for my final year project**
 
-- 🌱 I’m currently learning **C++, ROS2 Humble**
+- 🌱 I’m currently learning **C, C++ , STM32 and ROS2 Humble**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
