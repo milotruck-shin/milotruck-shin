@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">An electrical engineer. I code and dabble in robotics as a hobby</p>
+<p align="left">An embedded engineer who loves to think in systems. I code and dabble in robotics as a hobby!</p>
 
 ###
 
