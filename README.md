@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">An electrical eng. student. I code and dabble in robotics as a hobby</p>
+<p align="left">An electrical engineer. I code and dabble in robotics as a hobby</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on **embedded C and motor actuators**<br>🌱 I’m currently learning **C, C++ , STM32 and ROS2 Humble**</p>
+<p align="left">🔭 I’m currently working on embedded C on ARM Cortex processors and state machines. <br>🌱 My past projects include computer vision, control systems, and embedded systems design.</p>
 
 ###
 
