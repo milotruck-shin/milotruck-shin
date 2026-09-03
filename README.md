@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on embedded C and bare-metal programming on ARM Cortex processors. <br>🌱 My past projects include computer vision, control systems, and embedded systems design. <br>🛠️ Learning bucket list: state machines, ROS 2, PCB design & assembly, machining, hardware hacking.</p>
+<p align="left">🔭 I’m currently working on embedded C and bare-metal programming on ARM Cortex processors. <br>🌱 My past projects include computer vision, control systems, and embedded systems design. <br>🛠️ Learning bucket list: state machines, ROS 2, PCB design & assembly, hardware hacking.</p>
 
 ###
 
